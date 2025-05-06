@@ -1,0 +1,16 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "prod"
+#
+build:
+  version: "1.0"
+
+accounts:
+  message: "ELO"
+  contactDetails:
+    name: "Damian Marc - OWNER PRODUCT Dev"
+    email: "damianmar17@outlook.com"
+  onCallSupport:
+    -(453)555-1234
+    -(245)555-1345
