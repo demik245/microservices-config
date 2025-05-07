@@ -17,7 +17,7 @@ cards:
 #url: jdbc:h2:mem:testdb
 #driver-class-name: org.h2.Driver
 #username: demik245
-#password: rowerek123
+#password:
 #h2:
 #console:
 #enabled: true
